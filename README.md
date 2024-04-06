@@ -19,17 +19,15 @@ O conteúdo está organizado no cronograma abaixo.
 | 12/04/2024 | Tarde | Alinhamento par a par e múltiplo.                                                                                                                                                                           | Gabriel Wallau                 |
 | 15/04/2024 | Manhã | Introdução aos métodos filogenéticos.                                                                                                                                                                       | Gabriel Wallau                 |
 | 15/04/2024 | Tarde | Reconstrução de filogenias.                                                                                                                                                                                 | Gabriel Wallau                 |
-| 16/04/2024 | Tarde | Predição gênica e anotação funcional.                                                                                                                                                                       | Tulio Campos                   |
-| 17/04/2024 | Manhã | Análise com Augustus e Prokka.                                                                                                                                                                              | Tulio Campos                   |
-| 17/04/2024 | Tarde | Sequenciamento de alto desempenho: fatos e desafios.                                                                                                                                                        | Tulio Campos                   |
-| 18/04/2024 | Tarde | Analisando dados de sequenciamento de alto desempenho.                                                                                                                                                      | Tulio Campos                   |
-| 19/04/2024 | Manhã | Montagem de genomas: de novo vs por referência.                                                                                                                                                             | Tulio Campos                   |
-| 19/04/2024 | Tarde | Montagem de genomas virais e bacterianos com SPADES – leituras longas e curtas.                                                                                                                             | Tulio Campos                   |
+| 16/04/2024 | Tarde | Sequenciamento de alto desempenho: fatos e desafios.                                                                                                                                                        | Tulio Campos                   |
+| 17/04/2024 | Manhã | Analisando dados de sequenciamento de alto desempenho.                                                                                                                                                      | Tulio Campos                   |
+| 17/04/2024 | Tarde | Montagem de genomas: de novo vs por referência.                                                                                                                                                             | João Pitta                     |
+| 18/04/2024 | Tarde | Montagem de genomas virais e bacterianos                                                                                                                                                                    | João Pitta                     |
+| 19/04/2024 | Manhã | Predição gênica e anotação funcional                                                                                                                                                                        | Beatriz Toscano                |
 | 22/04/2024 | Manhã | Alinhamento concatenados e múltiplos marcadores - Filogenômica.                                                                                                                                             | Wilson Junior                  |
 | 22/04/2024 | Tarde | Concatenação (Concatenator) e alinhamento múltiplo, métodos de reconstrução filogenética rápida.                                                                                                            | Wilson Junior                  |
 | 23/04/2024 | Tarde | Apresentações de artigos e discussão                                                                                                                                                                        |                                |
-| 23/04/2024 | Manhã | Apresentações de artigos e discussão                                                                                                                                                                        |                                |
-|            |       |                                                                                                                                                                                                             |                                |
+| 24/04/2024 | Manhã | Apresentações de artigos e discussão                                                                                                                                                                        |                                |
 
 ## Bibliografia
 
@@ -53,5 +51,7 @@ O conteúdo está organizado no cronograma abaixo.
 
 ## Coordenação da disciplina
 
-Dr. Gabriel da Luz Wallau e Dr. Tulio de Lima Campos
+Dr. Gabriel da Luz Wallau
+
+Dr. Tulio de Lima Campos
 
