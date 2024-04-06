@@ -1,76 +1,35 @@
 # intro-bioinfo
 
-Este repositório é destinado para a disciplina de Introdução à Bioinformática, disponibilizamos aqui arquivos e scripts usados nas aulas.
+Sejam bem vindos a disciplina Disciplina eletiva: Introdução à Bioinformática – Análise de sequências e genomas completos.
+Este repositório é destinado a disponibilização arquivos e scripts usados nas aulas.
 
 ## Cronograma
 
-O conteúdo está organizado no cronograma abaixo. Obs: **1** == `am` e **2** == `pm`.
+O conteúdo está organizado no cronograma abaixo.
 
-### Day 1 (08/04/2024)
-
-1. Abertura do curso com apresentações sobre a dinâmica das aulas e introduções individuais dos participantes. Introdução a computação, conceitos de sistemas operacionais e linguagem de programação – colab.
-
-2. O poder da linha de comando: como navegar no ambiente e automatizar/gerenciar tarefas: instalando pacotes, monitorando jobs, paralelização, navegando na estrutura de diretórios, pipelining, bash script.
-
-### Day 2 (09/04/2024)
-
-2. Gerenciado de pacotes e pipelines com conda, containers (Docker e Singularity) e orquestradores de pipelines (NextFlow).
-
-### Day 3 (10/04/2024)
-
-1. Gerenciado de pacotes e pipelines com conda, containers (Docker e Singularity) e orquestradores de pipelines (NextFlow).
-
-2. Softwares básicos e bancos de dados de sequência para recuperar/submeter e manipular sequencias.
-
-### Day 4 (11/04/2024)
-
-2. Bash oneliner; EMBOSS; pipelines básicos no bash, NCBI, EMBL-EBI, UNIPROT, SWISSPROT, ENTREZ.
-
-### Day 5 (12/04/2024)
-
-1. Métodos de alinhamento de sequências.
-
-2. Alinhamento par a par e múltiplo.
-
-### Day 6 (15/04/2024)
-
-1. Introdução aos métodos filogenéticos.
-
-2. Reconstrução de filogenias.
-
-### Day 7 (16/04/2024)
-
-2. Predição gênica e anotação funcional.
-
-### Day 8 (17/04/2024)
-
-1. Análise com Augustus e Prokka.
-
-2. Sequenciamento de alto desempenho: fatos e desafios.
-
-### Day 9 (18/04/2024)
-
-2. Analisando dados de sequenciamento de alto desempenho.
-
-### Day 10 (19/04/2024)
-
-1. Montagem de genomas: _de novo_ vs por referência.
-
-2. Montagem de genomas virais e bacterianos com SPADES – leituras longas e curtas.
-
-### Day 11 (22/04/2024)
-
-1. Alinhamento concatenados e múltiplos marcadores - Filogenômica.
-
-2. Concatenação (Concatenator) e alinhamento múltiplo, métodos de reconstrução filogenética rápida.
-
-### Day 12 (23/04/2024)
-
-2. Apresentações de artigos e discussão.
-
-### Day 13 (24/04/2024)
-
-1. Apresentações de artigos e discussão.
+| Dia        | Turno | Aula                                                                                                                                                                                                        | Professor                      |
+|------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| 08/04/2024 | Manhã | Abertura do curso com apresentações sobre a dinâmica das aulas e introduções individuais dos participantes. Introdução a computação, conceitos de sistemas operacionais e linguagem de programação – colab. | Tulio Campos - Gabriel Wallau  |
+| 08/04/2024 | Tarde | O poder da linha de comando: como navegar no ambiente e automatizar/gerenciar tarefas: instalando pacotes, monitorando jobs, paralelização, navegando na estrutura de diretórios, pipelining, bash script.  | Tulio Campos - Gabriel Wallau  |
+| 09/04/2024 | Tarde | Gerenciado de pacotes e pipelines com conda, containers (Docker e Singularity) e orquestradores de pipelines (NextFlow).                                                                                    | Gabriel Wallau – Wilson Junior |
+| 10/04/2024 | Manhã | Gerenciado de pacotes e pipelines com conda, containers (Docker e Singularity) e orquestradores de pipelines (NextFlow) - Prática.                                                                          | Gabriel Wallau – Wilson Junior |
+| 10/04/2024 | Tarde | Softwares básicos e bancos de dados de sequência para recuperar/submeter e manipular sequências.                                                                                                            | Gabriel Wallau                 |
+| 11/04/2024 | Tarde | Bash oneliner; EMBOSS; pipelines básicos no bash, NCBI, EMBL-EBI, UNIPROT, SWISSPROT, ENTREZ.                                                                                                               | Gabriel Wallau                 |
+| 12/04/2024 | Manhã | Métodos de alinhamento de sequências.                                                                                                                                                                       | Gabriel Wallau                 |
+| 12/04/2024 | Tarde | Alinhamento par a par e múltiplo.                                                                                                                                                                           | Gabriel Wallau                 |
+| 15/04/2024 | Manhã | Introdução aos métodos filogenéticos.                                                                                                                                                                       | Gabriel Wallau                 |
+| 15/04/2024 | Tarde | Reconstrução de filogenias.                                                                                                                                                                                 | Gabriel Wallau                 |
+| 16/04/2024 | Tarde | Predição gênica e anotação funcional.                                                                                                                                                                       | Tulio Campos                   |
+| 17/04/2024 | Manhã | Análise com Augustus e Prokka.                                                                                                                                                                              | Tulio Campos                   |
+| 17/04/2024 | Tarde | Sequenciamento de alto desempenho: fatos e desafios.                                                                                                                                                        | Tulio Campos                   |
+| 18/04/2024 | Tarde | Analisando dados de sequenciamento de alto desempenho.                                                                                                                                                      | Tulio Campos                   |
+| 19/04/2024 | Manhã | Montagem de genomas: de novo vs por referência.                                                                                                                                                             | Tulio Campos                   |
+| 19/04/2024 | Tarde | Montagem de genomas virais e bacterianos com SPADES – leituras longas e curtas.                                                                                                                             | Tulio Campos                   |
+| 22/04/2024 | Manhã | Alinhamento concatenados e múltiplos marcadores - Filogenômica.                                                                                                                                             | Wilson Junior                  |
+| 22/04/2024 | Tarde | Concatenação (Concatenator) e alinhamento múltiplo, métodos de reconstrução filogenética rápida.                                                                                                            | Wilson Junior                  |
+| 23/04/2024 | Tarde | Apresentações de artigos e discussão                                                                                                                                                                        |                                |
+| 23/04/2024 | Manhã | Apresentações de artigos e discussão                                                                                                                                                                        |                                |
+|            |       |                                                                                                                                                                                                             |                                |
 
 ## Bibliografia
 
@@ -91,3 +50,8 @@ O conteúdo está organizado no cronograma abaixo. Obs: **1** == `am` e **2** ==
 [4](https://academic.oup.com/sysbio/article/66/2/218/2670096) – Bogusz and Whelan 2017. Phylogenetic tree estimation with and without alignment: new distance methods and benchmarking. Systematic Biology
 
 [5](https://pubmed.ncbi.nlm.nih.gov/35454135/) – Chao et al 2022. Developments in Algorithms for Sequence Alignment: A Review. Biomolecules (MDPI).ls
+
+## Coordenação da disciplina
+
+Dr. Gabriel da Luz Wallau e Dr. Tulio de Lima Campos
+
