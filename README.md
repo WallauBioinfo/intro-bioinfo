@@ -47,7 +47,9 @@ O conteúdo está organizado no cronograma abaixo.
 
 [4](https://academic.oup.com/sysbio/article/66/2/218/2670096) – Bogusz and Whelan 2017. Phylogenetic tree estimation with and without alignment: new distance methods and benchmarking. Systematic Biology
 
-[5](https://pubmed.ncbi.nlm.nih.gov/35454135/) – Chao et al 2022. Developments in Algorithms for Sequence Alignment: A Review. Biomolecules (MDPI).ls
+[5](https://pubmed.ncbi.nlm.nih.gov/35454135/) – Chao et al 2022. Developments in Algorithms for Sequence Alignment: A Review. Biomolecules (MDPI)
+
+[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9781918/) - Atxaerandio-Landa A, Arrieta-Gisasola A, Laorden L, Bikandi J, Garaizar J, Martinez-Malaxetxebarria I, Martinez-Ballesteros I. A Practical Bioinformatics Workflow for Routine Analysis of Bacterial WGS Data. Microorganisms. 2022 Nov 29;10(12):2364. doi: 10.3390/microorganisms10122364. PMID: 36557617; PMCID: PMC9781918.
 
 ## Coordenação da disciplina
 
